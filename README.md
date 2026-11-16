@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mohsin Ali 👋
 
-<!--
-**socialtv572-hub/socialtv572-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **PostPilot**, Roblox experiences & content automation · Rawalpindi, Pakistan
 
-Here are some ideas to get you started:
+### 🔭 What I'm building
+- **PostPilot** — multi-profile social media management & auto-publishing app
+- **BRAWLSHOT** — a Roblox experience built with Rojo + Open Cloud
+- **Casa Glow** — home-decor content across Pinterest, Instagram, Facebook, YouTube & TikTok
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 What I do
+- Software & automation for content workflows
+- Accounts & finance, FBR income-tax returns, payroll & reconciliations
+
+### 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/mohsin-ali-4b6135b2/)
